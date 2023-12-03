@@ -1,46 +1,10 @@
-# Food-starter Front-end Website
-![Project Image](url/to/your/image.png)
-Welcome to the Food-starter Front-end Website project! 🍔🌐
+![Untitled design](https://user-images.githubusercontent.com/65420004/180659905-25df4a63-6f62-4a09-85a5-86803d7796b2.jpg)
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
 
-## About
+# Build A React JS Website Styled With Tailwind CSS
 
-This project is a modern and user-friendly food order front-end website built with React and styled using Tailwind CSS. It provides a seamless and visually appealing experience for users to explore, search, and filter through a diverse range of food options.
+## Run npm install to install the necessary dependencies
 
-## Features
+ All of the data/images to simulate API responses are located at src/data/data.js
 
-- **Modern Design**: A sleek interface designed for a seamless user experience.
-- **Smart Filtering**: Advanced filtering options for quick and efficient searches.
-- **Responsive & Fast**: Ensures a smooth and lightning-fast browsing experience across devices.
-- **Secure Transactions**: Implements secure payment gateways for trustworthy transactions.
-- **Analytics Integration**: Gathers insights into user behavior for data-driven improvements.
-- **Collaborative Effort**: Developed with collaboration from [mention any collaborators or teams].
-
-## Tech Stack
-
-- React: For dynamic and interactive components.
-- Tailwind CSS: For clean and responsive styling.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Hiteshbemal24/food-order-website.git
-
-2. Install dependencies:
-   ```
-   cd food-order-website
-   npm install
-3.Run the development server:
-```
-npm start
-
-4.Open your browser and navigate to http://localhost:3000
-
-Explore the food-starter website and enjoy!
+This was a fun little project consisting of React & Tailwind which is a super powerful frontend combination you can used to quickly build websites. In this build I focus on adding a little extra javascript with the array filter method to filter out specific food types and pricing categories.
