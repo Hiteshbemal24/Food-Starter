@@ -37,5 +37,6 @@ This project is a modern and user-friendly food-starter  website built with Reac
 
     ```
 3. Run the development server:
- Open your browser and navigate to 'http://localhost:3000'
+   
+ Open your browser and navigate to 'http://localhost:3000'.
  Explore the food order website and enjoy!
