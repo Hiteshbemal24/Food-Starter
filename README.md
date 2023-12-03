@@ -1,6 +1,7 @@
-# Food-starter Front-end Website
-https://github.com/Hiteshbemal24/Food-Starter/blob/main/food-starter_netlify_app.png
-Welcome to the Food-starter Front-end Website project! 🍔🌐
+# Food-starter  Website
+![Food-starter Website](food-starter_netlify_app.png)
+
+Welcome to the Food-starter  Website project! 🍔🌐
 
 ## Table of Contents
 - [About](#about)
@@ -9,7 +10,7 @@ Welcome to the Food-starter Front-end Website project! 🍔🌐
 - [Installation](#installation)
 
 
-This project is a modern and user-friendly food-starter front-end website built with React and styled using Tailwind CSS. It provides a seamless and visually appealing experience for users to explore, search, and filter through a diverse range of food options.
+This project is a modern and user-friendly food-starter  website built with React and styled using Tailwind CSS. It provides a seamless and visually appealing experience for users to explore, search, and filter through a diverse range of food options.
 
 ## Features
 
