@@ -17,9 +17,6 @@ This project is a modern and user-friendly food-starter  website built with Reac
 - **Modern Design**: A sleek interface designed for a seamless user experience.
 - **Smart Filtering**: Advanced filtering options for quick and efficient searches.
 - **Responsive & Fast**: Ensures a smooth and lightning-fast browsing experience across devices.
-- **Secure Transactions**: Implements secure payment gateways for trustworthy transactions.
-- **Analytics Integration**: Gathers insights into user behavior for data-driven improvements.
-- **Collaborative Effort**: Developed with collaboration from [mention any collaborators or teams].
 
 ## Tech Stack
 
